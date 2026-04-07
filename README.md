@@ -1,7 +1,7 @@
 # 안녕하세요! 기록하며 성장하는 연습장입니다 📖
 
 ![header](https://capsule-render.vercel.app/render?type=rect&color=fdfdfd&text=My%20Dev%20Notes&fontSize=45&fontStyle=cursive&fontColor=333)
----
+
 
 ### 📌 오늘의 메모 (About Me)
 > **"복잡한 것도 심플하게, 안 풀리는 코드는 낙서하며 풀기."**
