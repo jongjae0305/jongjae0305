@@ -27,5 +27,4 @@
 
 ---
 
-### 📈 공부 흔적 (Stats)
-![Stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=transparent&hide_border=true)
+### 📈 공부 흔적 
