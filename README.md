@@ -1,6 +1,5 @@
 # 안녕하세요! 기록하며 성장하는 연습장입니다 📖
 
-![header](https://capsule-render.vercel.app/render?type=soft&color=auto&text=Name's%20Notebook&fontSize=40&animation=fadeIn&fontAlignY=40&fontStyle=cursive)
 
 
 ### 📌 오늘의 메모 (About Me)
